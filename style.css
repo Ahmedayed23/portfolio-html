@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+.accent,
+h1 {
+    background-color: blueviolet;
+}
+#para{
+    width: 80;
+}
+ul li{
+    display: block;
+}
